@@ -1,0 +1,9 @@
+*.iml
+
+*.log
+
+*.db
+
+/tadget
+
+.idea/
